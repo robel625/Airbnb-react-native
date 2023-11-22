@@ -1,0 +1,8 @@
+https://youtu.be/iWzUZiVoiR0
+
+npx create-expo-app airbnb -t tabs
+
+npx expo
+
+npx expo start -c                to clear project
+
